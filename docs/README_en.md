@@ -66,7 +66,7 @@ The best model selected was **XGBoost**, achieving an AUC-ROC of 0.9113. Evaluat
 
 ## 📋 Requirements
 - Python 3.x
-- Libraries: `pandas`, `numpy`, `sklearn`, `xgboost`, `lightgbm`, `matplotlib`, `seaborn`, `joblib`, among others (see `requirements.txt`).
+- Libraries: `pandas`, `numpy`, `sklearn`, `xgboost`, `lightgbm`, `matplotlib`, `seaborn`, `joblib`, among others (see [`requirements.txt`](https://github.com/willianadb/telecom_customer_churn_prediction/blob/main/requirements.txt)).
 
 ## 🧑‍💼 Author
 This project was developed by **Willian Albuquerque**, a data scientist and machine learning specialist. I am available for consultations and projects related to this topic.
