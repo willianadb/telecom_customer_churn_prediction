@@ -19,7 +19,7 @@ O trabalho foi desenvolvido em duas versões: português e inglês, visando alca
   - `portuguese/`
   - `english/`
 - `docs/`:
-  - [README_en.md](docs/README_en.md): Documentação do projeto em inglês.
+  - [README_en.md](https://github.com/willianadb/telecom_customer_churn_prediction/blob/main/docs/README_en.md): Documentação do projeto em inglês.
   - [README_pt.md](docs/README_pt.md): Documentação do projeto em português (você está aqui).
   
 ## 📊 Análise Exploratória
