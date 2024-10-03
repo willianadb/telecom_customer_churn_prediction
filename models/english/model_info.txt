@@ -1,0 +1,4 @@
+Model: XGBoost
+Tuned Hyperparameters: Default parameters used
+Best AUC-ROC (validation): 0.9113010014069354
+Metric Description: AUC-ROC (Area Under the Receiver Operating Characteristic Curve) is an important metric in classification problems. It measures the model's ability to distinguish between classes, especially useful in imbalanced situations, such as in this project. A higher AUC-ROC indicates better discrimination ability, aiding strategic business decision-making.

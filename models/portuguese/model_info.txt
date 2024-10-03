@@ -1,0 +1,4 @@
+Modelo: XGBoost
+Hiperparâmetros ajustados: Parâmetros padrão utilizados
+Melhor AUC-ROC (validação): 0.9113010014069354
+Descrição da Métrica: AUC-ROC (Área Sob a Curva da Característica de Operação do Receptor) é uma métrica importante em problemas de classificação. Ela mede a capacidade do modelo de distinguir entre as classes, especialmente útil em situações de desbalanceamento, como neste projeto. Um AUC-ROC mais alto indica uma melhor capacidade de discriminação, auxiliando em tomadas de decisões estratégicas no negócio.
