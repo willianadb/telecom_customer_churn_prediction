@@ -1,4 +1,4 @@
-#Versão em Português
+# Versão em Português
 # Previsão de Rotatividade de Clientes
 ![GitHub](https://img.shields.io/github/license/willianadb/gold_purification_prediction)
 ## 📄 Descrição do Projeto
@@ -71,7 +71,7 @@ O melhor modelo selecionado foi o **XGBoost**, alcançando uma AUC-ROC de 0.9113
 ## 🧑‍💼 Autor
 Este projeto foi desenvolvido por **Willian Albuquerque**, cientista de dados e especialista em aprendizado de máquina. Estou disponível para consultas e projetos relacionados ao tema.
 
-#English version
+# English version
 # Customer Churn Prediction
 ![GitHub](https://img.shields.io/github/license/willianadb/gold_purification_prediction)
 
