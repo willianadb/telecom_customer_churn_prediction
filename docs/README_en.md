@@ -20,8 +20,8 @@ The work was developed in two versions: Portuguese and English, aiming to reach 
   - `portuguese/`
   - `english/`
 - `docs/`:
-  - [README_en.md](docs/README_en.md): Project documentation in English (you are here).
-  - [README_pt.md](docs/README_pt.md): Project documentation in Portuguese.
+  - [README_en.md](https://github.com/willianadb/telecom_customer_churn_prediction/blob/main/docs/README_en.md): Project documentation in English (you are here).
+  - [README_pt.md](https://github.com/willianadb/telecom_customer_churn_prediction/blob/main/docs/README_pt.md): Project documentation in Portuguese.
   
 ## 📊 Exploratory Data Analysis
 Exploratory Data Analysis (EDA) was performed to better understand the data and identify patterns that may influence customer churn. Some of the analyses included:
