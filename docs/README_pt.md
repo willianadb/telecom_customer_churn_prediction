@@ -59,7 +59,7 @@ O melhor modelo selecionado foi o **XGBoost**, alcançando uma AUC-ROC de 0.9113
 - **Ajustes Futuros:** Ajustes adicionais nos hiperparâmetros e na engenharia de features podem ser realizados para melhorar ainda mais o desempenho do modelo.
 
 ## 📂 Como Executar o Projeto
-1. Clone este repositório: git clone https://github.com/seuusuario/nome_do_projeto.git
+1. Clone este repositório: git clone (https://github.com/willianadb/telecom_customer_churn_prediction.git)
 2. Instale as dependências: pip install -r requirements.txt
 3. Navegue até a pasta notebooks e execute a versão desejada (portuguese ou english).
 4. Os scripts de pré-processamento e modelagem podem ser encontrados na pasta scripts.
