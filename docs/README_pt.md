@@ -18,7 +18,6 @@ O trabalho foi desenvolvido em duas versões: português e inglês, visando alca
 - `models/`: Modelos treinados salvos para uso futuro.
   - `portuguese/`
   - `english/`
-- `results/`: Resultados das análises, gráficos e outras saídas geradas pelos notebooks.
 - `docs/`:
   - [README_en.md](docs/README_en.md): Documentação do projeto em inglês.
   - [README_pt.md](docs/README_pt.md): Documentação do projeto em português (você está aqui).
@@ -48,10 +47,10 @@ Foram treinados e avaliados vários modelos de aprendizado de máquina, incluind
 - LightGBM.
 
 ### 🛠️ Ajuste de Hiperparâmetros
-Os modelos mais promissores (XGBoost, LightGBM) passaram por ajustes de hiperparâmetros utilizando `RandomizedSearchCV` e `GridSearchCV`. A métrica AUC-ROC foi utilizada como critério principal para seleção do melhor modelo.
+Os modelos mais promissores foram o **XGBoost** que atingiu a AUC-ROC de 0.9113  **sem necessidade de ajustes nos hiperparâmetros** seguido do Gradient Boosting ajustado	com AUC-ROC de 0.902170, onde passou por ajustes de hiperparâmetros utilizando `RandomizedSearchCV` e `GridSearchCV`.
 
 ## 📈 Avaliação e Resultados
-O melhor modelo selecionado foi o **XGBoost**, alcançando uma AUC-ROC de 0.9113. Foram realizados ajustes de threshold para otimizar o modelo e melhorar a identificação de clientes propensos a cancelar o serviço. As métricas de avaliação, como acurácia, precisão, recall e f1-score, foram analisadas para cada modelo, destacando a eficácia do modelo final.
+O melhor modelo selecionado foi o **XGBoost**, alcançando uma AUC-ROC de 0.9113.  As métricas de avaliação, como acurácia, precisão, recall e f1-score, foram analisadas para cada modelo, destacando a eficácia do modelo final.
 
 ## 🚀 Próximos Passos e Considerações Finais
 - **Implementação em Produção:** O modelo está pronto para ser implementado em produção para prever a rotatividade em tempo real.
