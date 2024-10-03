@@ -20,7 +20,7 @@ O trabalho foi desenvolvido em duas versões: português e inglês, visando alca
   - `english/`
 - `docs/`:
   - [README_en.md](https://github.com/willianadb/telecom_customer_churn_prediction/blob/main/docs/README_en.md): Documentação do projeto em inglês.
-  - [README_pt.md](docs/README_pt.md): Documentação do projeto em português (você está aqui).
+  - [README_pt.md](https://github.com/willianadb/telecom_customer_churn_prediction/blob/main/docs/README_pt.md): Documentação do projeto em português (você está aqui).
   
 ## 📊 Análise Exploratória
 A análise exploratória (EDA) foi realizada para entender melhor os dados e identificar padrões que podem influenciar a rotatividade dos clientes. Algumas das análises incluídas:
