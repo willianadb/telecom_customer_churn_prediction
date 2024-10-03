@@ -1,4 +1,4 @@
-# Projeto de Previsão de Rotatividade de Clientes
+# Previsão de Rotatividade de Clientes
 ![GitHub](https://img.shields.io/github/license/willianadb/gold_purification_prediction)
 ## 📄 Descrição do Projeto
 Este projeto tem como objetivo prever a rotatividade de clientes de uma empresa de telecomunicações, utilizando técnicas de aprendizado de máquina. A identificação precisa dos clientes propensos a cancelar os serviços permite que a empresa implemente estratégias proativas para reter clientes e aumentar a satisfação.
