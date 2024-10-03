@@ -1,4 +1,4 @@
-# Customer Churn Prediction Project
+# Customer Churn Prediction
 ![GitHub](https://img.shields.io/github/license/willianadb/gold_purification_prediction)
 
 ## 📄 Project Description
